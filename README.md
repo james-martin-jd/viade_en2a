@@ -14,4 +14,4 @@ More information about how this project has been setup is available [in the wiki
 
 ## Compiling instructions
 
-This project requires node
+This project requires node 
